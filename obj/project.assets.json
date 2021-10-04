@@ -12985,23 +12985,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\V_raulbim\\.nuget\\packages\\": {},
+    "C:\\Users\\Desenvolvimento\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Ponto.Sys - Cursos\\Dominando ASP.NET Core MVC\\MinhaDemoMVC\\MinhaDemoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\Curso-ASP.NET-MVC-Core\\MinhaDemoMVC.csproj",
       "projectName": "MinhaDemoMVC",
-      "projectPath": "E:\\Ponto.Sys - Cursos\\Dominando ASP.NET Core MVC\\MinhaDemoMVC\\MinhaDemoMVC.csproj",
-      "packagesPath": "C:\\Users\\V_raulbim\\.nuget\\packages\\",
-      "outputPath": "E:\\Ponto.Sys - Cursos\\Dominando ASP.NET Core MVC\\MinhaDemoMVC\\obj\\",
+      "projectPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\Curso-ASP.NET-MVC-Core\\MinhaDemoMVC.csproj",
+      "packagesPath": "C:\\Users\\Desenvolvimento\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Desenvolvimento\\Documents\\Cursos Ponto.Sys\\Curso-ASP.NET-MVC-Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\V_raulbim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Desenvolvimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13093,7 +13093,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

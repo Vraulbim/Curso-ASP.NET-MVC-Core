@@ -34,3 +34,40 @@ E:\Ponto.Sys - Cursos\Dominando ASP.NET Core MVC\MinhaDemoMVC\obj\Debug\netcorea
 E:\Ponto.Sys - Cursos\Dominando ASP.NET Core MVC\MinhaDemoMVC\obj\Debug\netcoreapp2.2\MinhaDemoMVC.csproj.CopyComplete
 E:\Ponto.Sys - Cursos\Dominando ASP.NET Core MVC\MinhaDemoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AvisoGeral.cshtml.g.cs
 E:\Ponto.Sys - Cursos\Dominando ASP.NET Core MVC\MinhaDemoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\MinhaDemoMVC.deps.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\MinhaDemoMVC.runtimeconfig.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\MinhaDemoMVC.runtimeconfig.dev.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\MinhaDemoMVC.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\MinhaDemoMVC.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\MinhaDemoMVC.Views.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\bin\Debug\netcoreapp2.2\MinhaDemoMVC.Views.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.RazorAssemblyInfo.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.RazorAssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.TagHelpers.input.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.TagHelpers.output.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.RazorCoreGenerate.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\Adicionar.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AvisoGeral.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.Views.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.genruntimeconfig.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\Curso-ASP.NET-MVC-Core\obj\Debug\netcoreapp2.2\MinhaDemoMVC.csproj.CopyComplete
